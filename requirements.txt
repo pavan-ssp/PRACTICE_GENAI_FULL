@@ -26,3 +26,6 @@ emoji
 tensorflow
 langchain_huggingface
 langchain_groq
+faiss-cpu
+pypdf
+langchain_google_genai
