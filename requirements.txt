@@ -29,3 +29,5 @@ langchain_groq
 faiss-cpu
 pypdf
 langchain_google_genai
+Pinecone
+langchain_pinecone
