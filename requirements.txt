@@ -31,3 +31,6 @@ pypdf
 langchain_google_genai
 Pinecone
 langchain_pinecone
+wikipedia
+youtube_search
+langgraph
