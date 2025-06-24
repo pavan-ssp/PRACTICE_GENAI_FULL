@@ -1,1 +1,28 @@
-spacy
+# This file lists the dependencies for the AgenticAI project.
+# Use pip to install the dependencies listed here.
+numpy 
+pandas
+pydantic
+python-dotenv
+langchain
+langchain-openai
+langchain-community
+langchain-groq
+langchain-core
+arxiv
+pymupdf
+wikipedia
+pypdf
+bs4
+langchain_huggingface
+faiss-cpu
+langchain_google_genai
+langchain-pinecone
+youtube_search
+langgraph
+chromadb
+textblob
+emoji
+tensorflow
+langchain_huggingface
+langchain_groq
