@@ -34,3 +34,4 @@ langchain_pinecone
 wikipedia
 youtube_search
 langgraph
+chromadb
